@@ -1,0 +1,17 @@
+metadata-file: metadata.yml # file to use for metadata
+table-of-contents: true # enabling table of contents
+toc-depth: 1 # setitng max depth of 1 for table of contents
+number-sections: false # setting to prefix headings with numbers
+wrap: auto
+resource-path: ['.', 'images']
+columns: 78
+dpi: 72
+variables:
+  documentclass: book # book,scrbook,article, etc. are supported document classes
+  fontsize: 14pt
+  classoption: openany # disable empty pages in PDF openright, openany
+  papersize: a5paper
+  column_number: onecolumn
+  geometry: 'margin=1.2in'
+  sansfont: Helvetica
+  monofont: Menlo
