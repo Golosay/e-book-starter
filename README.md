@@ -1,6 +1,6 @@
 # Starter kit for technical e-book using pandoc
 
-![](./images/cover.jpg)
+![Alternative text](./images/cover.jpg)
 
 Read my [medium article][medium-url] to learn more writing technical books with markdown.
 
